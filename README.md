@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I did only two pages, main and second. Because, I yet didn't cover topic "API". Also, carousel-slider on top of second page also nonworking. Interface may differ from mine in terms of scale/sizes. 
+![image](https://user-images.githubusercontent.com/106386169/211238365-19201756-3b57-45d1-b6ea-b5f2878f68d8.png)
+![image](https://user-images.githubusercontent.com/106386169/211238409-df507b87-c2e6-4553-a2af-f03092912c6d.png)
